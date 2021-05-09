@@ -7,4 +7,4 @@ def crear_csv(user):
         filewriter = csv.writer(csvfile, delimiter=';',
                                 quotechar='|', quoting=csv.QUOTE_MINIMAL)
         filewriter.writerow(
-            ['presupuesto', 'objetos', 'cantidades', 'tiempos'])
+            ['presupuesto', 'objetos', 'cantidades', 'tiempos', 'dinero', 'wats'])

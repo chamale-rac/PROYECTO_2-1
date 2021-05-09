@@ -27,17 +27,32 @@ def verificar_int(mensaje):
     return num_entero
 
 
+def guardand(user, crear):
+    linea_objetos = "#".join(str(x)for x in crear[1])
+    linea_cantidades = "#".join(str(x)for x in crear[2])
+    linea_tiempos = "#".join(str(x)for x in crear[3])
+    linea_nueva = crear[0] + ";" + linea_objetos + \
+        ";" + linea_cantidades + ";" + linea_tiempos + \
+        ";" + crear[4] + ";" + crear[5]
+    #linea_nueva = ";".join(str(x) for x in crear)
+    linea_nueva += '\n'
+    with open('__tablas_presupuestos__/' + user + '.csv', 'a', encoding='utf-8') as f:
+        f.write(linea_nueva)  # escribir
+    f.close()
+
+
 def anadiendo(user):
     nombre_tabla = input(">> Nombre para el presupuesto: ")
 
     menu = 'Desea ingresar otro objeto?\n1. Si\n2. No'
 
     items = 2
-    terminar = False
     objetos = []
     cantidades = []
     tiempos = []
-    crear = [nombre_tabla, objetos, cantidades, tiempos]
+    dinero = ''
+    wats = ''
+    crear = [nombre_tabla, objetos, cantidades, tiempos, dinero, wats]
     while True:
         opcion = imprimirMenu(menu, items)
         if opcion == 1:
@@ -55,6 +70,9 @@ def anadiendo(user):
             # TODO crear funcion para resultados
             # TODO funcion para arreglar y mostrar.
             print("CREANDO TABLA...\n\t\t[CREACION CORRECTA]")
+            dinero, wats = a_d.operacion(crear)
+            guardand(user, crear)
+
             # a_d.analizando(crear)
             break
         else:

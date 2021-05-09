@@ -1,0 +1,7 @@
+luis,['Televisor LED de 22 pulgadas'],[2],[120]
+luis,['Televisor LED de 22 pulgadas', 'Bombilla de luz de 60W (incandescente)'],[2, 2],[120, 60]
+luis1,['Televisor LED de 22 pulgadas'],[3],[4]
+luis1,['Televisor LED de 22 pulgadas', 'Xbox One'],[3, 2],[4, 6]
+
+nombre[objetos-----------------------------] [] []
+luis1;Televisor LED de 22 pulgadas#Xbox One;3#2;4#6

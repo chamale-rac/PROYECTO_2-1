@@ -66,10 +66,10 @@ def accion(op):
                     valid2 = valid2 + 1
             except:
                 pass
-
         if op == 1:
             if valid > 0:
                 print("\t\t\t[INGRESANDO]")
+								####LLAMADA MENU####
                 m_m.main_menu(usuario)
                 exit = True
                 # TODO Aqui me falta poner la llamada a la funcion menu ya logeado, solo eso esto trabaja individual

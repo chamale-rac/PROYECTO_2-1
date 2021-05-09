@@ -1,144 +1,144 @@
-﻿id;nombre;minimo;maximo;standby;otros_nombre
-1;Bombilla de 100W (incandescente);100W;100W;0W;
-2;Televisor LED de 22 pulgadas;17W;17W;0,5 W;
-3;Televisión en color de 25;150W;150W;N / A;
-4;Lijadora de banda de 3;1000W;1000W;N / A;
-5;TV LED de 32 pulgadas;20W;60W;1W;
-6;Televisor LED de 42 pulgadas;58W;60W;0,3 W;
-7;Televisor LED de 46 pulgadas;60W;70W;1W;
-8;Televisor LED de 49 pulgadas;85W;85W;1W;
-9;Televisor LED de 55 pulgadas;116W;116W;0,5 W;
-10;Bombilla de luz de 60W (incandescente);60W;60W;0W;
-11;Televisor LED de 65 pulgadas;120W;130W;1W;
-12;TV LED de 82 pulgadas;228W;295W;0,5 W;
-13;Lijadora de disco de 9;1200W;1200W;N / A;
-14;Aire acondicionado;65W;80W;N / A;
-15;Freidora;1500W;1500W;N / A;
-16;Purificador de aire;25W;30W;N / A;
-17;Amazon Echo;3W;3W;2W;
-18;Amazon Echo Dot;2W;3W;N / A;
-19;Amazon Echo Show;2W;4W;0,1 W;
-20;Frigorífico-congelador estilo americano;40W;80W;N / A;Frigorífico americano con congelador, frigorífico de dos puertas
-21;Apple TV;3W;6W;0,3 W;
-22;Bomba de acuario;20W;50W;N / A;
-23;Receptor AV;450W;450W;N / A;
-24;Calentador de toallas de baño;60W;150W;N / A;Barra de toalla, barra de toalla con calefacción
-25;Ventilador de techo;60W;70W;0W;
-26;Chromebook;45W;45W;N / A;Libro de Chrome
-27;Chromecast;2W;2W;N / A;
-28;Radio despertador;1W;2W;N / A;
-29;Secadora de ropa;1000W;4000W;N / A;Secadora, secadora
-30;Cafetera;800W;1400W;N / A;
-31;Monitor de computadora;25W;30W;N / A;
-32;Campana;20W;30W;0W;
-33;Taladro con cable;600W;850W;N / A;Taladro eléctrico
-34;Soplador de hojas de mano eléctrico con cable;2500W;2500W;N / A;
-35;Cargador de taladro inalámbrico;70W;150W;N / A;
-36;Hierro que se encrespa;25W;35W;0W;
-37;Radio de red DAB;5W;9W;N / A;Radio
-38;Congelador profundo;19W;19W;N / A;Congelador de pecho
-39;Deshumidificador;240W;240W;N / A;
-40;Computadora de escritorio;100W;450W;N / A;
-41;Lavaplatos;1200W;1500W;N / A;
-42;Bomba de agua doméstica;200W;300W;0W;Bomba de agua de ducha
-43;Reproductor de DVD;26W;60W;N / A;
-44;Manta eléctrica;200W;200W;N / A;
-45;Caldera electrica;4000W;14000W;N / A;
-46;Transformador de timbre eléctrico;2W;2W;N / A;
-47;Ventilador calefactor eléctrico;2000W;3000W;N / A;
-48;Hervidor eléctrico;1200W;3000W;0W;Pava
-49;Cortacésped eléctrico;1500W;1500W;N / A;
-50;Olla a presión eléctrica;1000W;1000W;N / A;Olla a presión
-51;Afeitadora eléctrica;15W;20W;N / A;
-52;Estufa eléctrica;2000W;2000W;N / A;
-53;Calentador de agua eléctrico sin tanque;6600W;8800W;N / A;
-54;Radiador térmico eléctrico;500W;500W;N / A;Radiador termal
-55;Máquina de café expreso;1300W;1500W;N / A;Máquina de espresso
-56;Cargador de coche EV;2000W;7000W;N / A;
-57;Cargador de casa para vehículos eléctricos;1600W;3400W;N / A;
-58;Acondicionador de aire evaporativo;2600W;2600W;N / A;Enfriador evaporativo
-59;Ventilador extractor;12W;12W;N / A;Ventilador de baño
-60;Lámpara fluorescente;28W;45W;N / A;Luz de tubo fluorescente
-61;Licuadora;300W;400W;N / A;Batidora, procesador de alimentos, licuadora, licuadora de jugo, batidora de jugo
-62;Deshidratador de alimentos;800W;800W;N / A;Deshidratador de bandejas
-63;Congelador;30W;50W;N / A;
-64;Nevera;100W;220W;N / A;
-65;Nevera-congelador;150W;400W;N / A;
-66;Freidora;1000W;1000W;N / A;Freidora, Freidora
-67;Consola de juego;120W;200W;N / A;
-68;PC para juegos;300W;600W;1W;Computadora para juegos
-69;Abridor de puerta de garage;300W;400W;N / A;Puerta de garaje eléctrica
-70;Google Home Mini;15W;15W;2W;Google Nest Mini
-71;Amplificador de guitarra;20W;30W;N / A;
-72;Secador de pelo;1800W;2500W;N / A;Secador de pelo, Secador de pelo, Secador de pelo
-73;Calentador de agua para lavar a mano;3000W;3000W;N / A;
-74;Espejo de baño calefactado;50W;100W;N / A;
-75;Rodillos de pelo con calefacción;400W;400W;N / A;Rodillos calentados
-76;Acondicionador de aire casero;1000W;4000W;N / A;AC, A / C, aire acondicionado
-77;Enrutador de Internet doméstico;5W;15W;N / A;Enrutador
-78;Teléfono de casa;3W;5W;2W;Teléfono DECT
-79;Sistema de sonido para el hogar;95W;95W;1W;
-80;Dispensador de agua caliente;1200W;1300W;N / A;Grifo de agua caliente instantánea, caldera de agua
-81;Calentador de inmersión en agua caliente;3000W;3000W;N / A;
-82;Humidificador;35W;40W;N / A;
-83;iMac;60W;240W;1W;
-84;Placa de inducción (por placa);1400W;1800W;N / A;Estufa de inducción, Estufa de cocción de inducción, Cocina eléctrica
-85;Impresora de inyección de tinta;20W;30W;N / A;Impresora
-86;Acondicionador de aire inverter;1300W;1800W;N / A;
-87;Hierro;1000W;1000W;N / A;Plancha electrica
-88;Ventilador extractor de cocina;200W;200W;N / A;
-89;Ordenador portátil;50W;100W;N / A;Computadora portátil
-90;Impresora laser;600W;800W;N / A;
-91;Cortacésped;1000W;1400W;N / A;
-92;Luces de Navidad LED;5W;5W;N / A;Luces del árbol
-93;Bombilla de luz LED;7W;10W;0W;Bombilla de ahorro de energía
-94;Mi caja;5W;7W;3W;Mi caja Android
-95;Microonda;600W;1700W;3W;Horno microondas
-96;Luz de noche;1W;1W;0W;
-97;Adaptador de corriente alterna de Nintendo Switch;7W;40W;N / A;
-98;Jacuzzi al aire libre;60W;500W;N / A;Canadian Spa, Spa al aire libre
-99;Horno;2150W;2150W;N / A;Horno eléctrico
-100;Trituradora de papel;200W;220W;N / A;
-101;Ventilador de pedestal;50W;60W;N / A;Ventilador de pie alto, ventilador de suelo, ventilador de pie
-102;Percolador;800W;1100W;N / A;Cafetera
-103;Bombilla inteligente Philips Hue;8W;9W;0,4 W;Luces de tono
-104;Cargador de teléfono;4W;7W;N / A;Cargador de teléfono inteligente, Cargador de teléfono celular, Cargador de teléfono móvil
-105;Playstation 4;85W;90W;N / A;PS4
-106;PlayStation 5;160W;200W;N / A;PS5
-107;Ducha Energetica;7500W;10500W;0W;Ducha eléctrica
-108;Olla a presión;700W;700W;N / A;
-109;Proyector;220W;270W;1W;
-110;Refrigerador;100W;200W;N / A;
-111;Olla arrocera;200W;800W;N / A;
-112;Sandwichera;700W;1000W;N / A;Prensa Sandwich, Tostadora Sandwich
-113;Escáner;10W;18W;N / A;
-114;Fijar la caja de encima;27W;30W;N / A;Caja de cable, caja de Humax
-115;Máquina de coser;70W;80W;N / A;
-116;Máquina de coser Singer;100W;100W;N / A;
-117;Caja Sky Q 2TB;40W;40W;N / A;Caja del cielo
-118;Olla de cocción lenta;160W;180W;N / A;
-119;Calentador;2000W;5000W;N / A;
-120;Plancha de vapor;2200W;2500W;N / A;
-121;Esterilizador;650W;650W;N / A;Esterilizador
-122;Plancha alisadora;75W;300W;N / A;Planchas de pelo, Planchas de pelo
-123;Strimmer;300W;500W;N / A;
-124;Bomba de agua sumergible;200W;400W;N / A;Bomba de piscina, bomba de sumidero, bomba de pozo
-125;Ventilador de mesa;10W;25W;N / A;Ventilador de mesa
-126;Refrigerador de sobremesa;10W;15W;N / A;
-127;Cargador de tableta;10W;15W;N / A;
-128;Tableta;5W;10W;N / A;
-129;Tostadora;800W;1800W;0W;
-130;Ventilador de torre;60W;60W;N / A;
-131;Rueda de andar;280W;900W;N / A;
-132;Tubo de luz (1500 mm);22W;22W;N / A;
-133;"TV (19 ""en color)";40W;100W;1W;
-134;Aspiradora;450W;900W;0W;
-135;Ventilador de pared;45W;60W;0W;
-136;Lavadora;500W;500W;1W;Lavadora de ropa
-137;Dispensador de agua;100W;100W;N / A;
-138;Fuente de agua;35W;35W;N / A;
-139;Filtro de agua y enfriador;70W;100W;N / A;Enfriador de agua
-140;Amplificador de WiFi;1W;2W;N / A;Repetidor WiFi, Extensor WiFi, Extensor de rango
-141;Router de wifi;4W;10W;4W;Enrutador
-142;Vinoteca (18 botellas);83W;83W;0W;
-143;Xbox One;50W;110W;14W;
+id,nombre,maximo
+1,Bombilla de 100W (incandescente),100
+2,Televisor LED de 22 pulgadas,17
+3,Televisión en color de 25,150
+4,Lijadora de banda de 3,1000
+5,TV LED de 32 pulgadas,60
+6,Televisor LED de 42 pulgadas,60
+7,Televisor LED de 46 pulgadas,70
+8,Televisor LED de 49 pulgadas,85
+9,Televisor LED de 55 pulgadas,116
+10,Bombilla de luz de 60W (incandescente),60
+11,Televisor LED de 65 pulgadas,130
+12,TV LED de 82 pulgadas,295
+13,Lijadora de disco de 9,1200
+14,Aire acondicionado,80
+15,Freidora,1500
+16,Purificador de aire,30
+17,Amazon Echo,3
+18,Amazon Echo Dot,3
+19,Amazon Echo Show,4
+20,Frigorífico-congelador estilo americano,80
+21,Apple TV,6
+22,Bomba de acuario,50
+23,Receptor AV,450
+24,Calentador de toallas de baño,150
+25,Ventilador de techo,70
+26,Chromebook,45
+27,Chromecast,2
+28,Radio despertador,2
+29,Secadora de ropa,4000
+30,Cafetera,1400
+31,Monitor de computadora,30
+32,Campana,30
+33,Taladro con cable,850
+34,Soplador de hojas de mano eléctrico con cable,2500
+35,Cargador de taladro inalámbrico,150
+36,Hierro que se encrespa,35
+37,Radio de red DAB,9
+38,Congelador profundo,19
+39,Deshumidificador,240
+40,Computadora de escritorio,450
+41,Lavaplatos,1500
+42,Bomba de agua doméstica,300
+43,Reproductor de DVD,60
+44,Manta eléctrica,200
+45,Caldera electrica,14000
+46,Transformador de timbre eléctrico,2
+47,Ventilador calefactor eléctrico,3000
+48,Hervidor eléctrico,3000
+49,Cortacésped eléctrico,1500
+50,Olla a presión eléctrica,1000
+51,Afeitadora eléctrica,20
+52,Estufa eléctrica,2000
+53,Calentador de agua eléctrico sin tanque,8800
+54,Radiador térmico eléctrico,500
+55,Máquina de café expreso,1500
+56,Cargador de coche EV,7000
+57,Cargador de casa para vehículos eléctricos,3400
+58,Acondicionador de aire evaporativo,2600
+59,Ventilador extractor,12
+60,Lámpara fluorescente,45
+61,Licuadora,400
+62,Deshidratador de alimentos,800
+63,Congelador,50
+64,Nevera,220
+65,Nevera-congelador,400
+66,Freidora,1000
+67,Consola de juego,200
+68,PC para juegos,600
+69,Abridor de puerta de garage,400
+70,Google Home Mini,15
+71,Amplificador de guitarra,30
+72,Secador de pelo,2500
+73,Calentador de agua para lavar a mano,3000
+74,Espejo de baño calefactado,100
+75,Rodillos de pelo con calefacción,400
+76,Acondicionador de aire casero,4000
+77,Enrutador de Internet doméstico,15
+78,Teléfono de casa,5
+79,Sistema de sonido para el hogar,95
+80,Dispensador de agua caliente,1300
+81,Calentador de inmersión en agua caliente,3000
+82,Humidificador,40
+83,iMac,240
+84,Placa de inducción (por placa),1800
+85,Impresora de inyección de tinta,30
+86,Acondicionador de aire inverter,1800
+87,Hierro,1000
+88,Ventilador extractor de cocina,200
+89,Ordenador portátil,100
+90,Impresora laser,800
+91,Cortacésped,1400
+92,Luces de Navidad LED,5
+93,Bombilla de luz LED,10
+94,Mi caja,7
+95,Microonda,1700
+96,Luz de noche,1
+97,Adaptador de corriente alterna de Nintendo Switch,40
+98,Jacuzzi al aire libre,500
+99,Horno,2150
+100,Trituradora de papel,220
+101,Ventilador de pedestal,60
+102,Percolador,1100
+103,Bombilla inteligente Philips Hue,9
+104,Cargador de teléfono,7
+105,Playstation 4,90
+106,PlayStation 5,200
+107,Ducha Energetica,10500
+108,Olla a presión,700
+109,Proyector,270
+110,Refrigerador,200
+111,Olla arrocera,800
+112,Sandwichera,1000
+113,Escáner,18
+114,Fijar la caja de encima,30
+115,Máquina de coser,80
+116,Máquina de coser Singer,100
+117,Caja Sky Q 2TB,40
+118,Olla de cocción lenta,180
+119,Calentador,5000
+120,Plancha de vapor,2500
+121,Esterilizador,650
+122,Plancha alisadora,300
+123,Strimmer,500
+124,Bomba de agua sumergible,400
+125,Ventilador de mesa,25
+126,Refrigerador de sobremesa,15
+127,Cargador de tableta,15
+128,Tableta,10
+129,Tostadora,1800
+130,Ventilador de torre,60
+131,Rueda de andar,900
+132,Tubo de luz (1500 mm),22
+133,"TV (19 ""en color)",100
+134,Aspiradora,900
+135,Ventilador de pared,60
+136,Lavadora,500
+137,Dispensador de agua,100
+138,Fuente de agua,35
+139,Filtro de agua y enfriador,100
+140,Amplificador de WiFi,2
+141,Router de wifi,10
+142,Vinoteca (18 botellas),83
+143,Xbox One,110

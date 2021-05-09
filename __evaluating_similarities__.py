@@ -5,7 +5,7 @@ import pandas as pd
 def similarities():
 
     col_list = ["nombre"]
-    df = pd.read_csv("objetos.csv", sep=';', usecols=col_list)
+    df = pd.read_csv("__tablas_data__/objetos.csv", sep=',', usecols=col_list)
     strOptions = df["nombre"].array
 
     exit = False
